@@ -1,0 +1,36 @@
+* {
+    background-color: grey;
+    position: center;
+    margin: 0;
+    box-sizing: border-box;
+}
+td {
+    border: solid black 2px;
+    color: #ffffff;
+    border-color: black;
+    text-align: center;
+}
+table {
+    border: solid 3px;
+    margin-left: 50px;
+    text-align: center;
+    box-align: center;
+}
+.table1 {
+    position: absolute;
+    left: 30%;
+    top: 20%;
+}
+.table2 {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
+.nike {
+    background-color: #009688;
+    color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 71px;
+    z-index: 2;
+}
